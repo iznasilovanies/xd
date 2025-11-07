@@ -1,0 +1,9 @@
+{
+  "name": "secret-tweak-license-server",
+  "version": "1.0.0",
+  "description": "License validation server for SecretTweak",
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
